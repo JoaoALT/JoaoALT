@@ -1,13 +1,13 @@
-## Hello! Bonjour! Hola!       <img src="https://github.com/user-attachments/assets/bb34e699-827b-46f9-829b-4f07395e5c3c" width="50" height="50"/>
+## _Hello! Bonjour! Hola!_       <img src="https://github.com/user-attachments/assets/bb34e699-827b-46f9-829b-4f07395e5c3c" width="50" height="50"/>
 
 I'm Joao, cats and arts enthusiast, nice to meet you.
 
-About me:
+### About me:
 - I'm 20 y/o, currently in Bogotá.
-- Computer engineer at Universidad de la sabana.
-- Currently learning python.
-- Part of Empowering Rural Schools proyect in la Unisabana.
-- I speak native spanish, English (B2-C1 level), and learning French (A1-A2 level).
+- **Computer engineer** at [Universidad de la Sabana](https://www.unisabana.edu.co/).
+- Currently learning **python**.
+- Part of the **[Empowering Rural Schools](https://pure.unisabana.edu.co/en/projects/community-centered-early-engineering-empowering-rural-schools-thr)** proyect in la Unisabana.
+- I speak _native spanish_, _Advanced English_ (B2-C1 level), and currently learning _French_ (A1-A2 level).
 <!--
 **JoaoALT/JoaoALT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
