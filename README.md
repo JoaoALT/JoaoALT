@@ -1,6 +1,6 @@
 ## _Hello! Bonjour! Hola!_       <img src="https://github.com/user-attachments/assets/bb34e699-827b-46f9-829b-4f07395e5c3c" width="50" height="50"/>
 
-I'm Joao, cats and arts enthusiast, nice to meet you.
+I'm Joao, technology, arts and cats enthusiast, nice to meet you.
 
 ### About me:
 - 🤗 I'm 20 y/o, currently in Bogotá.
