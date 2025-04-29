@@ -10,7 +10,7 @@ I'm Joao, cats and arts enthusiast, nice to meet you.
 - I speak _native spanish_, _Advanced English_ (B2-C1 level), and currently learning _French_ (A1-A2 level).
 
 
-![snake gif](https://github.com/JoaoALT/JoaoALT/blob/output/github-snake.svg)
+![snake gif](https://github.com/JoaoALT/JoaoALT/blob/output/github-snake-dark.svg)
 
 
 <picture>
