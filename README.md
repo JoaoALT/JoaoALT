@@ -1,4 +1,4 @@
-## Hello! Bonjour! Hola! <img src="https://github.com/user-attachments/assets/bb34e699-827b-46f9-829b-4f07395e5c3c" width="65" height="65"/>
+## Hello! Bonjour! Hola!       <img src="https://github.com/user-attachments/assets/bb34e699-827b-46f9-829b-4f07395e5c3c" width="50" height="50"/>
 
 I'm Joao, cats and arts enthusiast, nice to meet you.
 
