@@ -12,7 +12,5 @@ I'm Joao, cats and arts enthusiast, nice to meet you.
 
 
 ###
-
-<img src="./snake.yml" alt="Snake animation" />
-
+![snake gif](https://github.com/JoaoALT/JoaoALT/blob/output/github-contribution-grid-snake.gif)
 ###
