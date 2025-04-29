@@ -1,4 +1,5 @@
-## Hello! Bonjour! Hola! <div class="tenor-gif-embed" data-postid="22884648" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/gato-giovannamagnusjunior-gif-22884648">Gato Giovannamagnusjunior Sticker</a>from <a href="https://tenor.com/search/gato-stickers">Gato Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+## Hello! Bonjour! Hola! ![gato-giovannamagnusjunior](https://github.com/user-attachments/assets/bb34e699-827b-46f9-829b-4f07395e5c3c)
+
 
 I'm Joao, cats and arts enthusiast, nice to meet you.
 
