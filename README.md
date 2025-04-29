@@ -3,18 +3,20 @@
 I'm Joao, cats and arts enthusiast, nice to meet you.
 
 ### About me:
-- I'm 20 y/o, currently in Bogotá.
-- **Computer engineer** at [Universidad de la Sabana](https://www.unisabana.edu.co/).
-- Currently learning **python**.
-- Part of the **[Empowering Rural Schools](https://pure.unisabana.edu.co/en/projects/community-centered-early-engineering-empowering-rural-schools-thr)** proyect in la Unisabana.
-- I speak _native spanish_, _Advanced English_ (B2-C1 level), and currently learning _French_ (A1-A2 level).
+-🤗 I'm 20 y/o, currently in Bogotá.
+-🎓 **Computer engineer** at [Universidad de la Sabana](https://www.unisabana.edu.co/).
+-🐍 Currently learning **python**.
+-🔎 Part of the **[Empowering Rural Schools](https://pure.unisabana.edu.co/en/projects/community-centered-early-engineering-empowering-rural-schools-thr)** proyect in la Unisabana.
+-🗺️ I speak _native spanish_, _Advanced English_ (B2-C1 level), and currently learning _French_ (A1-A2 level).
 
 
 ![snake gif](https://github.com/JoaoALT/JoaoALT/blob/output/github-snake-dark.svg)
 
-
+<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+-->
