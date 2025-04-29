@@ -1,4 +1,4 @@
-## Hello! Bonjour! Hola! ![gato-giovannamagnusjunior](https://github.com/user-attachments/assets/bb34e699-827b-46f9-829b-4f07395e5c3c)
+## Hello! Bonjour! Hola! ![gato-giovannamagnusjunior](https://github.com/user-attachments/assets/bb34e699-827b-46f9-829b-4f07395e5c3c | 250x250)
 
 
 I'm Joao, cats and arts enthusiast, nice to meet you.
