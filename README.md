@@ -13,6 +13,6 @@ I'm Joao, cats and arts enthusiast, nice to meet you.
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="./snake.yml" alt="Snake animation" />
 
 ###
