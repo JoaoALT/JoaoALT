@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hello! Bonjour! Hola! <div class="tenor-gif-embed" data-postid="22884648" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/gato-giovannamagnusjunior-gif-22884648">Gato Giovannamagnusjunior Sticker</a>from <a href="https://tenor.com/search/gato-stickers">Gato Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
+I'm Joao, cats and arts enthusiast, nice to meet you.
+
+About me:
+- I'm 20 y/o, currently in Bogotá.
+- Computer engineer at Universidad de la sabana.
+- Currently learning python.
+- Part of Empowering Rural Schools proyect in la Unisabana.
+- I speak native spanish, English (B2-C1 level), and learning French (A1-A2 level).
 <!--
 **JoaoALT/JoaoALT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
