@@ -21,6 +21,6 @@ I'm Joao, technology, arts and cats enthusiast, nice to meet you.
 
 -->
 
-[![JoaoALT's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoALT)](https://github.com/JoaoALT/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoALT)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoALT&show_icons=true)
 
