@@ -12,10 +12,6 @@ I'm Joao, technology, arts and cats enthusiast, nice to meet you.
 
 ![snake gif](https://github.com/JoaoALT/JoaoALT/blob/output/github-snake-dark.svg)
 
-My top languagues:
-
-![Top Langs](https://vercel.app[your-username]&layout=pie)
-
 <!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
